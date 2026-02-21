@@ -1,0 +1,186 @@
+
+<--Here experience comes -->
+	
+	<section class="three-board-section" id="experience">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 three-board-desc fade-up-box">
+					<span class="fade-up-item">Experience</span>
+					<h3 class="mobile-text-center fade-up-item">
+						⏳ Experience is a Great Teacher
+					</h3>
+				</div>
+			</div>
+		</div>
+		<div class="sticky-height">
+			<div class="sticky-3-board">
+				<div class="container-fluid sticky-relative">
+					<div class="row single-board">
+						<div class="col-md-12">
+							<div class="container">
+								<div class="row">
+									<div class="col-md-2"></div>
+									<div class="col-md-8 advantages-detail">
+										<div class="single-advantage mobile-text-center fade-up-box">
+											<span class="fade-up-item"> 2023 - Current</span>
+											<h4 class="fade-up-item">
+												Software Engineer Intern (Software) <br />
+												at
+											</h4>
+											<a style="
+														font-size: 30px !important;
+														border-bottom: 1px solid black;
+													" href="http://www.hackerkernel.com/">
+												<i style="color: blue">@</i><i style="color: black">Hacker</i><i
+													style="color: red">Kernel</i>
+												<img style="width: 40px" src="./images/icon/HKLogo.png" alt="" />
+											</a>
+
+											<p class="fade-up-item">
+												I have dedicated the past year to continuously
+												learning and working on some freelance projects,
+												crafting bespoke web solutions for various clients.
+												<br />
+												Having recently joined
+												<b style="color: black">Hacker</b><b style="color: red">Kernel</b> as a
+												Software
+												Engineer Trainee (Software), I am excited to embark on
+												this new journey in my tech career. My focus is on
+												growing my skills, contributing to innovative
+												projects, and developing high-quality, dynamic, and
+												user-friendly websites and applications.
+											</p>
+											<!-- <h6 class="fade-up-item text-center"><u><b>🚨!! Next Week, I am Going to Join as Web Engineer Role at XYZ Company at Bhopal, I'll Reavel Soon after 100% Confirmation !!🚨</u></b> </h6> -->
+										</div>
+									</div>
+								</div>
+								<div class="col-md-2"></div>
+							</div>
+						</div>
+					</div>
+					<div class="row single-board">
+						<div class="col-md-12">
+							<div class="container">
+								<div class="row">
+									<div class="col-md-2"></div>
+									<div class="col-md-8 advantages-detail">
+										<div class="single-advantage mobile-text-center fade-up-box">
+											<span class="fade-up-item">January 2023 - August 2023</span>
+											<h4 class="fade-up-item">
+												Frontend Web Mentor <br />
+												at
+											</h4>
+											<a style="
+														font-size: 30px;
+														border-bottom: 1px solid black;
+													" href="https://www.sheryians.com/">
+												<i style="color: blue">@</i><i style="color: #014ea8">Sheryians</i><i
+													style="color: #fbd019">Coding</i><i
+													style="color: #d56a13">School</i>
+
+												<img style="width: 30px" src="./images/icon/SheryiansLogo.webp"
+													alt="" />
+											</a>
+											<br />
+											<p class="fade-up-item">
+												As a Mentor at
+												<b style="color: #014ea8">Sheryians</b>
+												<b style="color: #fbd019">Coding</b>
+												<b style="color: #d56a13">School</b>, I guided junior
+												students in HTML, CSS, Python, and GSAP
+												animations. I conducted sessions, resolved doubts,
+												developed educational resources, and fostered a
+												collaborative learning environment. This role enhanced
+												my teaching skills and deepened my technical
+												expertise.
+											</p>
+										</div>
+									</div>
+									<div class="col-md-2"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- <div class="row single-board">
+							<div class="col-md-12">
+								<div class="container">
+									<div class="row">
+										<div class="col-md-2"></div>
+										<div class="col-md-8 advantages-detail">
+											<div
+												class="single-advantage mobile-text-center fade-up-box"
+											>
+												<span class="fade-up-item"
+													>February 2021 - Currently</span
+												>
+												<h4 class="fade-up-item">
+													NCC Instructor (Part Time)
+													<br />
+													at
+													<br />
+													<a href="https://mittalinstitute.org/">
+														<i> @MIG ,Bhopal </i>
+													</a>
+												</h4>
+												<p class="fade-up-item">
+													I served as a part-time NCC (National Cadet Corps)
+													Instructor at <b style="color: #014ea8">MIG</b
+													><b style="color: #fbd019">College</b
+													>, driven by my passion for the armed
+													forces. This role allowed me to cultivate leadership
+													and instructional skills while making a meaningful
+													impact on young cadets. My duties involved rigorous
+													training sessions, mentoring, and event coordination,
+													which significantly enhanced my ability to lead,
+													teach, and inspire.
+												</p>
+											</div>
+										</div>
+										<div class="col-md-2"></div>
+									</div>
+								</div>
+							</div>
+						</div> -->
+					<div class="row single-board">
+						<div class="col-md-12">
+							<div class="container">
+								<div class="row">
+									<div class="col-md-2"></div>
+									<div class="col-md-8 advantages-detail">
+										<div class="single-advantage mobile-text-center fade-up-box">
+											<span class="fade-up-item">February 2021 - Currently</span>
+											<h4 class="fade-up-item">
+												NCC Instructor (Part Time) <br />
+												at
+											</h4>
+											<a style="
+														font-size: 30px;
+														border-bottom: 1px solid black;
+													" href="https://mittalinstitute.org/">
+												<i style="color: blue">@</i><i style="color: #ed2e34">Mittal Group
+													of</i><i style="color: #014ea8"> Institue</i>
+												<img style="width: 50px" src="./images/icon/Mittal.png" alt="" />
+											</a>
+											<br />
+											<p class="fade-up-item">
+												I served as a part-time NCC (National Cadet Corps)
+												Instructor at <b style="color: #ed2e34">MGI</b>
+												<b style="color: #014ea8">College</b>, driven by my
+												passion for the armed forces. This role allowed me to
+												cultivate leadership and instructional skills while
+												making a meaningful impact on young cadets. My duties
+												involved rigorous training sessions, mentoring, and
+												event coordination, which significantly enhanced my
+												ability to lead, teach, and inspire.
+											</p>
+										</div>
+									</div>
+									<div class="col-md-2"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
